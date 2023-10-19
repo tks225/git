@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 hello
 hi
-=======
-hello`
-greet
->>>>>>> event
